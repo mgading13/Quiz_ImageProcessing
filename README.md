@@ -1,1 +1,2 @@
-# Quiz_ImageProcessing
+# NAMA : MUHAMMAD GADING ACHMALIADI
+# NIM : F55122029
